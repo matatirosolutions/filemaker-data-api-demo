@@ -21,7 +21,7 @@ To connect the app to your own FMS you need to follow a few more steps.
        'database': 'ITG01Demo'
     });
     ``` 
-4. To build the output from source you'll need to have node.js and npm installed. You can check to see if you have them installed by opending a command prompt and typing `node --version`. If you get an error visit [https://nodejs.org/en/download/](https://nodejs.org/en/download/).  
+4. To build the output from source you'll need to have node.js and npm installed. You can check to see if you have them installed by opening a command prompt and typing `node --version`. If you get an error visit [https://nodejs.org/en/download/](https://nodejs.org/en/download/).  
 5. Open a terminal, navigate to the folder you have the demo and then
     ```
         npm install
