@@ -1,0 +1,2 @@
+#loading { position: absolute; right: 20px; top: 20px; z-index: 2; width: 40px; height: 40px; }
+#loading img { width: 100%; -moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH; -ms-filter: "FlipH"; }
