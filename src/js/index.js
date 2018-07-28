@@ -4,7 +4,7 @@ import StateChart from "./StateChart";
 require('../css/index.css');
 
 let fmConnection = new FileMakerDataAPI({
-    'server': 'https://fms17.msdev.co.uk',
+    'server': 'https://fms.msdev.co.uk',
     'username': 'DataAPIReadOnly',
     'password': 'Qwerty1!',
     'database': 'ITG01Demo',
